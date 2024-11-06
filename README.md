@@ -1,1 +1,1 @@
-# udemy_fastapi_streamlit
+# udemy_streamlit_fastapi_sqlite
